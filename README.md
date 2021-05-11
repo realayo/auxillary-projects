@@ -35,3 +35,4 @@ ssh-keygen -t rsa
 ```
 ./onboarding_users
 ```
+A video implementation of the script is [here](https://youtu.be/S_XGRfKA-UQ)
